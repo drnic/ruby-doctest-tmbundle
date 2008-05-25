@@ -16,7 +16,7 @@
 	<key>output</key>
 	<string>showAsHTML</string>
 	<key>scope</key>
-	<string>text.html.rdoc.test</string>
+	<string>text.html.rdoc.test, source.ruby.irb.doctest</string>
 	<key>uuid</key>
 	<string>D5D55F5E-28CF-4D24-AA21-35AD59E666D8</string>
 </dict>
