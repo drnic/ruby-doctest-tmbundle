@@ -8,9 +8,9 @@
 		<string>rdoctest</string>
 	</array>
 	<key>keyEquivalent</key>
-	<string>^~D</string>
+	<string>^~R</string>
 	<key>name</key>
-	<string>DocTest</string>
+	<string>Ruby DocTest</string>
 	<key>patterns</key>
 	<array>
 		<dict>
