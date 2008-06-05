@@ -64,7 +64,7 @@
 			<key>end</key>
 			<string>\n</string>
 			<key>name</key>
-			<string>source.ruby.irb.doctest.single_line</string>
+			<string>source.ruby.irb.doctest.single_line.expr</string>
 			<key>patterns</key>
 			<array>
 				<dict>

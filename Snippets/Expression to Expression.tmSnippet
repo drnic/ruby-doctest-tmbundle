@@ -10,7 +10,7 @@
 	<key>name</key>
 	<string>Expression to Expression</string>
 	<key>scope</key>
-	<string>source.ruby.irb.single_line.expr</string>
+	<string>source.ruby.irb.doctest.single_line.expr</string>
 	<key>uuid</key>
 	<string>F9126107-9AB4-490A-874D-3005329C1E85</string>
 </dict>
