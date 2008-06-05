@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>
+&gt;&gt; $0</string>
+	<key>keyEquivalent</key>
+	<string>^$</string>
+	<key>name</key>
+	<string>Expression to Expression</string>
+	<key>scope</key>
+	<string>source.ruby.irb.single_line.expr</string>
+	<key>uuid</key>
+	<string>F9126107-9AB4-490A-874D-3005329C1E85</string>
+</dict>
+</plist>
