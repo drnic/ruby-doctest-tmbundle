@@ -10,13 +10,13 @@
 	<key>input</key>
 	<string>document</string>
 	<key>keyEquivalent</key>
-	<string>@r</string>
+	<string>@R</string>
 	<key>name</key>
 	<string>Run DocTest</string>
 	<key>output</key>
 	<string>showAsHTML</string>
 	<key>scope</key>
-	<string>text.html.markdown.rubydoctest, source.ruby.irb.doctest</string>
+	<string>text.html.markdown.ruby.doctest, source.ruby.doctest</string>
 	<key>uuid</key>
 	<string>D5D55F5E-28CF-4D24-AA21-35AD59E666D8</string>
 </dict>

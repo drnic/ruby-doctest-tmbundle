@@ -1,3 +1,3 @@
 #!/usr/bin/env ruby
 
-puts `rubydoctest --html "#{File.expand_path ENV['TM_FILEPATH']}"`
+puts `rubydoctest --html --ignore-interactive "#{File.expand_path ENV['TM_FILEPATH']}"`
