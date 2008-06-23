@@ -89,6 +89,27 @@
 			<key>patterns</key>
 			<array>
 				<dict>
+					<key>begin</key>
+					<string>^([ \t]*(#)\s+)</string>
+					<key>captures</key>
+					<dict>
+						<key>2</key>
+						<dict>
+							<key>name</key>
+							<string>comment.line.number-sign.ruby</string>
+						</dict>
+					</dict>
+					<key>end</key>
+					<string>\n</string>
+					<key>patterns</key>
+					<array>
+						<dict>
+							<key>include</key>
+							<string>source.ruby.rails</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
 					<key>include</key>
 					<string>source.ruby.rails</string>
 				</dict>
